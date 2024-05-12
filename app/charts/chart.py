@@ -8,6 +8,7 @@ def generate_pie_chart():
     print(f'ax {ax}')
 
     ax.pie(values, labels=labels)
-    plt.savefig('imgs/pie.png')
+    print("Saving figure...")
+    plt.savefig('charts/imgs/pie.png')
 
     plt.close()
