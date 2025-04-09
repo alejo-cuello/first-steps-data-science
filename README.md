@@ -11,5 +11,6 @@ In this repository, I create a branch for some [Platzi courses I take](https://p
 - [pip-virtual-envs-course](https://platzi.com/cursos/python-pip/)
 - [linear-algebra](https://platzi.com/cursos/algebra-lineal/)
 - [linear-algebra-applied-to-ml](https://platzi.com/cursos/algebra-ml/)
+- [linear-regression](https://platzi.com/cursos/regresion-lineal/)
 
 Now, I'm doing a complete project in [this repo](https://github.com/alejo-cuello/research-on-argentina).
