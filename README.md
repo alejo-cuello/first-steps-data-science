@@ -23,6 +23,7 @@ All courses are organized in separate branches, named after the course titles or
 - [linear-regression](https://platzi.com/cursos/regresion-lineal/)
 - [logistic-regression](https://platzi.com/cursos/regresion-logistica/)
 - [decision-trees](https://platzi.com/cursos/arboles-machine-learning/)
+- [clustering](https://platzi.com/cursos/clustering/)
 
 
 Also, I'm doing a complete project in [this repo](https://github.com/alejo-cuello/research-on-argentina).
