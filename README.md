@@ -26,4 +26,4 @@ All courses are organized in separate branches, named after the course titles or
 - [clustering](https://platzi.com/cursos/clustering/)
 
 
-Also, I'm doing a complete project in [this repo](https://github.com/alejo-cuello/research-on-argentina).
+You can find complete projects on my [GitHub Profile](https://github.com/alejo-cuello/alejo-cuello).
